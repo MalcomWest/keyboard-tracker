@@ -7,7 +7,7 @@ body{
     height: 100vh;
     font-family: "DM Serif Text";
     flex-wrap: wrap;
-
+    word-break: break-all;
 }
 
 h1{
